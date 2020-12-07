@@ -5,6 +5,7 @@ pip3 install ipfsapi
 
 #create file python index.py
 #coding
+```python
 import ipfsApi
 
 api = ipfsApi.Client('127.0.0.1', 5001)
@@ -18,3 +19,4 @@ python3 index.py
 
 #This is the result
 {'Name': 'test.txt', 'Hash': 'QmY9cxiHqTFoWamkQVkpmmqzBrY3hCBEL2XNu3NtX74Fuu', 'Size': '14'}
+```
