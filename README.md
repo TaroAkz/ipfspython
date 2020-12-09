@@ -1,8 +1,9 @@
 # ipfspython
 
 #installation library ipfs
+'''terminal
 pip3 install ipfsapi
-
+'''
 #create file python index.py
 #coding
 ```python
